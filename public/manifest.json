@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Hashnode Daily",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "./assets/logo.png"
+  },
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting",
+    "actions"
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  },
+   "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}

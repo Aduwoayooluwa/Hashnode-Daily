@@ -1,0 +1,11 @@
+.cl-formButtonPrimary {
+  font-size: 14px;
+  text-transform: none;
+  background-color: #4468ff;
+}
+ 
+.cl-formButtonPrimary:hover,
+.cl-formButtonPrimary:focus,
+.cl-formButtonPrimary:active {
+  background-color: #233bff;
+}
