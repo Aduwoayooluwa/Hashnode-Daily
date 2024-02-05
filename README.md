@@ -1,6 +1,7 @@
 # Hashnode Daily Chrome Extension
 
-The Hashnode Daily Chrome Extension allows you to seamlessly read and manage your favorite Hashnode articles directly from your Chrome browser. Enhance your reading experience and keep your favorite tech articles organized and accessible with a simple click.
+[The Hashnode Daily]((https://hashnode-daily-lp.vercel.app/)) Chrome Extension allows you to seamlessly read and manage your favorite Hashnode articles directly from your Chrome browser. Enhance your reading experience and keep your favorite tech articles organized and accessible with a simple [click](https://hashnode-daily-lp.vercel.app/).
+
 
 ## Features
 
@@ -14,6 +15,8 @@ The Hashnode Daily Chrome Extension allows you to seamlessly read and manage you
 1. Open the Chrome Web Store.
 2. Search for "Hashnode Daily".
 3. Click "Add to Chrome" to install the extension.
+
+[Click to visit the Website](https://hashnode-daily-lp.vercel.app/)
 
 ## How to Use
 
