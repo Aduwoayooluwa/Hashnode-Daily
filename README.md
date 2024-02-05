@@ -1,30 +1,57 @@
-# React + TypeScript + Vite
+# Hashnode Daily Chrome Extension
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The Hashnode Daily Chrome Extension allows you to seamlessly read and manage your favorite Hashnode articles directly from your Chrome browser. Enhance your reading experience and keep your favorite tech articles organized and accessible with a simple click.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Add Blog**: Easily add Hashnode articles to your reading list using the 'Add Blog' button.
+- **Homepage Viewing**: Instantly view your curated articles on your Chrome extension homepage.
+- **User Profiles**: Sign up to create a personal profile to save your settings and reading lists.
+- **Sync Across Devices**: Access your reading list on any device where you are signed into Chrome.
 
-## Expanding the ESLint configuration
+## Installation
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+1. Open the Chrome Web Store.
+2. Search for "Hashnode Daily".
+3. Click "Add to Chrome" to install the extension.
 
-- Configure the top-level `parserOptions` property like this:
+## How to Use
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+### Adding Articles
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+1. Navigate to your desired Hashnode article.
+2. Click the Hashnode Daily Chrome Extension icon in your browser toolbar.
+3. Click the 'Add Blog' button within the popup to add the article to your homepage list.
+
+### Viewing Articles
+
+- Simply open a new tab in Chrome, and click on the Hashnode Daily icon to see your list of saved articles.
+
+### Signing Up
+
+- Click on the profile icon in the top right corner of the extension popup.
+- Select "Sign Up" and follow the instructions to create your profile.
+
+## Data Privacy
+
+We value your privacy. All data is stored securely and we do not share your personal information with third parties.
+
+## Support
+
+For support, feedback, or suggestions, please send us an email at [aduwoayooluwa@gmail.com](mailto:aduwoayooluwa@gmail.com).
+
+## Contributions
+
+Contributions are welcome! If you'd like to contribute, feel free to submit a pull request.
+
+## License
+
+This Chrome extension is made available under the [MIT License](LICENSE.md).
+
+## Acknowledgements
+
+Thank you to the Hashnode community for releasing the Hashnode API
+
+---
+
+Enjoy your reading experience with Hashnode Daily Chrome Extension!
